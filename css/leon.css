@@ -276,7 +276,7 @@ body {
 }
 .portfolio .portfolio-content .card {
     background-color: white;
-
+    overflow: auto;
 }
 @media (max-width:767px) {
     .portfolio .portfolio-content .card {
